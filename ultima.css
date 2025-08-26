@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    font-size: 20px;
+}
+
+@media (max-width:1100px){
+    body{
+        background-color: white;
+        font-size: 18px;
+    }
+}
+
+@media (max-width:550px){
+    body{
+        background-color: white;
+        font-size: 16px;
+    }
+}
+
+#linha2 {
+    width: 100%;
+    height: 30px;
+    background-color: #632020;
+
+}
+
+#virello2 {
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+
+#Inicio {
+    position: absolute;
+    top: 1%;
+    left: 96%;
+}
+
+#sou{
+    display: flex;
+    margin-top: 7%;
+    margin-left: 24%;
+    height: 20px;
+}
+
+#retangulo{
+    display: flex;
+    margin-top: 2.5%;
+    margin-left: 20%;
+    height: 60px;
+}
+
+#email{
+    display: flex;
+    margin-top: -2.5%;
+    margin-left: 21%;
+    height: 15px;
+}
+
+#retangulo2{
+    display: flex;
+    margin-top: 7%;
+    margin-left: 20%;
+    height: 60px;
+ 
+}
+
+#senha1{
+    display: flex;
+    margin-top: -13.5%;
+    margin-left: 21%;
+    height: 13px; 
+}
+
+#esqueci{
+    display: flex;
+    margin-top: 1%;
+    margin-left: 21%;
+    height: 15px;
+}
+
+#rosa1{
+    display: flex;
+    margin-top: 7%;
+    margin-left: 20%;
+    height: 60px;
+}
+
+#entrar{
+    display: flex;
+    margin-top: -2.5%;
+    margin-left: 25%;
+    height: 15px;
+    background-color: black;
+}
+
+#criar{
+    display: flex;
+    margin-top: -16%;
+    margin-left: 70%;
+    height: 17px;
+}
+
+#retangulo3{
+    display: flex;
+    margin-top: 2.7%;
+    margin-left: 65%;
+    height: 60px;
+}
+
+#seu{
+    display: flex;
+    margin-top: -2.5%;
+    margin-left: 66%;
+    height: 15px; 
+}
+
+#retangulo4{
+    display: flex;
+    margin-top: 7%;
+    margin-left: 65%;
+    height: 60px;
+}
+
+#senha2{
+    display: flex;
+    margin-top: -2.5%;
+    margin-left: 66%;
+    height: 13px; 
+}
+
+#rosa2{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 65%;
+    height: 60px;
+}
+
+#acessar{
+    display: flex;
+    margin-top: -2.5%;
+    margin-left: 68%;
+    height: 15px;
+}
+
+#facebook{
+    display: flex;
+    width: 300px;
+    margin-top: 9%;
+    margin-left: 10%;
+}
+
+#google{
+    display: flex;
+    width: 300px;
+    margin-top: -3.9%;
+    margin-left: 40%;
+}
+
+#apple{
+    display: flex;
+    width: 300px;
+    margin-top: -3.9%;
+    margin-left: 70%;
+}
+
+#espaco{height: 100px;}
